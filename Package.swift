@@ -13,12 +13,11 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
         .binaryTarget(
             name: "ContoursAI_SDK",
-            url: "https://github.com/Contour-Document-Imaging/contours-ai-example/releases/download/1.1.0/ContoursAI_SDK_1.1.0.xcframework.zip",
-            checksum: "49c5d9afbe70d820faadff13a714b902d5a8227254e6085b540667681133dfab"),
+            url: "https://github.com/Contour-Document-Imaging/contours-ai-example/releases/download/1.2.0/ContoursAI_SDK_1.2.0.xcframework.zip",
+            checksum: "2225ba59b6d6de50a621de0ad46887160ead2deb4e25b76039972b67366a672a"),
     ]
 )
