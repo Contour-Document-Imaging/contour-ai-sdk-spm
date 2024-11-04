@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ContoursAI_SDK",
-            url: "https://github.com/Contour-Document-Imaging/contours-ai-example/releases/download/1.10.3/ContoursAI_SDK_1.10.3.xcframework.zip",
-            checksum: "47130c9b660cb28050877a10d3b0c7c3b6a0d93bfb4e0edb213ee271afc8ae90"),
+            url: "https://github.com/Contour-Document-Imaging/contours-ai-example/releases/download/1.10.5/ContoursAI_SDK_1.10.5.xcframework.zip",
+            checksum: "d62fc693584accf7670bb39eaa898b8045f77bec9f946d13709dc34564de8af9"),
     ]
 )
 
